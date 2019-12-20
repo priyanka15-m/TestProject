@@ -6,7 +6,9 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="sandybrown">
+
+<center>
 <h2>Welcome JTian</h2>
 <form action="jtb" method="post">
 Enter Your Name:<input type="text" name="name">
@@ -29,5 +31,6 @@ Books:
 <br>
 <input type="submit" value="Submit">
 </form>
+</center>
 </body>
 </html>

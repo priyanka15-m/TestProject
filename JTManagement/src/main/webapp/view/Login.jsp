@@ -4,13 +4,14 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Enquiry Page</title>
+<title>Insert title here</title>
 </head>
 <body bgcolor="springgreen">
 <center>
-<form action="enquiry" method="post">
-  <a href="/addenquiry">Add Enquiry</a><br><br>
-  <a href="/dltenquiry">Delete Enquiry</a>
+<form action="login" method="post">
+Enter Name:<input type="text" name="name"><br>
+Enter Password:<input type="password" name="password"><br>
+<input type="submit" value="Login">
 </form>
 </center>
 </body>

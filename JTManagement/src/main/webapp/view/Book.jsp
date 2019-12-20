@@ -88,12 +88,12 @@ body {
     </div>
   </div> 
   <div class="dropdown">
-    <button class="dropbtn">Edit Book 
+    <button class="dropbtn">Edit a Book 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Java</a>
-      <a href="#">Advance Java</a>
+      <a href="/EditBook">Java</a>
+      <a href="/EditBook">Advance Java</a>
       
     </div>
   </div> 

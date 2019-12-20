@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="sandybrown">
 <h2>Welcome to Java Technocrat</h2>
 <form action="njtb" method="post">
 Enter your name:<input type="text" name="name">
